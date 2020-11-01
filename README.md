@@ -8,4 +8,6 @@ I also produce a podcast and blog on my site [JaredWhite.com](https://jaredwhite
 
 Have any questions or requests for me? [Create an issue here](https://github.com/jaredcwhite/jaredcwhite/issues) and I'll respond shortly! :wave:
 
-P.S. I'm available for consulting on all things Ruby, Rails, and beyond. Contact me for further details.
+----
+
+P.S. I'm available for consulting on all things Ruby, Rails, and beyond. Contact me for further details. 🤙

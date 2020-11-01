@@ -7,3 +7,5 @@ Hi, I'm Jared! I build and contribute to open source Ruby software like [Bridget
 I also produce a podcast and blog on my site [JaredWhite.com](https://jaredwhite.com), and you can read my [Now page](https://jaredwhite.com/now) to find out what I'm currently focused on. (In case it's not obvious, my website is powered by Bridgetown. :sunglasses:)
 
 Have any questions or requests for me? [Create an issue here](https://github.com/jaredcwhite/jaredcwhite/issues) and I'll respond shortly! :wave:
+
+P.S. I'm available for consulting on all things Ruby, Rails, and beyond. Contact me for further details.

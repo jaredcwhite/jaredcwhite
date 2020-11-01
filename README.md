@@ -2,7 +2,7 @@
 
 Hi, I'm Jared! I build and contribute to open source Ruby software like [Bridgetown](https://github.com/bridgetownrb/bridgetown) and [Ruby2JS](https://github.com/rubys/ruby2js).
 
-[You can sponsor me](https://github.com/sponsors/jaredcwhite) right here on GitHub to help acheive my goal of introducing many more web developers to the delightful and productive Ruby language, and keeping Ruby a first-class citizen on the "Jamstack".
+[You can sponsor me](https://github.com/sponsors/jaredcwhite) right here on GitHub to help achieve my goal of introducing many more web developers to the delightful and productive Ruby language, and keeping Ruby a first-class citizen on the "Jamstack".
 
 I also produce a podcast and blog on my site [JaredWhite.com](https://jaredwhite.com), and you can read my [Now page](https://jaredwhite.com/now) to find out what I'm currently focused on. (In case it's not obvious, my website is powered by Bridgetown. :sunglasses:)
 

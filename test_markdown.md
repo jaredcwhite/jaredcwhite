@@ -11,3 +11,9 @@ Nice!
 
 # Head	ing
 Wee wa.
+
+```ruby script
+def foo(bar:)
+  @a = 123
+end
+```

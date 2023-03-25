@@ -18,7 +18,7 @@ tag = doc.first_element_child
 #mark.content = "{{{{%= foo %}}}}"
 
 def erb_directive(code, escaped: true)
-  "{{{{%=#{"=" unless escaped} #{code} %}}}}"
+  "__ERB_START__%=#{"=" unless escaped} #{code} %__ERB_END__"
 end
 
 tag.css("*[host-effect]").each do |el|

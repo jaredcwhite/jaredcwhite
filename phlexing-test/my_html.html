@@ -1,3 +1,25 @@
+<template>
+  I'm a template!
+</template>
+
+<script type="module">
+  console.log("Module baby!")
+</script>
+
+<style>
+  h1 {
+    color: orange;
+    font-size: red;
+  }
+
+  p::part(abc) {
+    & foo {
+      --bar: "baz";
+    }
+  }
+</style>
+
+
 <div class="foo">
   Wow<em>wee</em>!
   <p host-effect="whoa#foo->textContent">heh</p>

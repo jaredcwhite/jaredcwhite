@@ -10,4 +10,4 @@ Have any questions or requests for me? [Create an issue here](https://github.com
 
 ----
 
-P.S. I'm available for consulting on all things Ruby, Rails, and beyond. Contact me for further details. 🤙
+P.S. I'm available for consulting on all things Ruby, web components, and beyond. Contact me for further details. 🤙

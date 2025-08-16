@@ -1,3 +1,10 @@
+> [!CAUTION]
+> Due to GitHub's bizarre "pivot to AI" with **unsubstatiated claims** that soon 90% of code will be written by AI all while being sucked into the facist **Micro$oft** regime, I am _proudly_ migrating all of my open source projects over to [Codeberg](https://codeberg.org/jaredwhite). This work is ongoing and [I am tracking the progress here](https://codeberg.org/jaredwhite/jaredwhite/projects/22897).
+>
+> I hope you will join me and migrate away from the proprietary GitHub corporate silo and onto true community-led, open source platforms like Codeberg! (Or [host Forgejo yourself](https://forgejo.org)!) ✌️☮️🏳️‍🌈
+
+----
+
 ### A Hearty Hello from Portlandia! 🌲
 
 Hi, I'm Jared! I build and contribute to open source Ruby software like [Bridgetown](https://github.com/bridgetownrb/bridgetown) and [Ruby2JS](https://github.com/rubys/ruby2js).

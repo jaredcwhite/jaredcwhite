@@ -5,7 +5,7 @@
 > I hope you will join me and migrate away from the proprietary GitHub corporate silo and onto true community-led, open source platforms like Codeberg! (Or [host Forgejo yourself](https://forgejo.org)!) ✌️☮️🏳️‍🌈
 
 > [!TIP]
-> Meanwhile, ⭐️ [please star my Codeberg updates repo here on GitHub](https://github.com/jaredcwhite/my-codeberg-updates) ⭐️ so you can stay apprised of the work I'm doing in open source on Codeberg. 😊🙏
+> Meanwhile, ⭐️ [please star my Codeberg updates repo here on GitHub](https://github.com/jaredcwhite/my-codeberg-updates) ⭐️ (if you follow me) so you can stay apprised of the work I'm doing in open source on Codeberg. 😊🙏
 
 ----
 

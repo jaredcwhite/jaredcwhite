@@ -1,8 +1,8 @@
 > [!CAUTION]
-> Due to GitHub's weird "pivot to AI" and other undesirable actions taken by the **Micro$oft** regime, I am _proudly_ migrating the majority of of my open source projects over to [Codeberg](https://codeberg.org/jaredwhite). This work is mostly complete and ➡️ [I've been tracking the progress here](https://codeberg.org/jaredwhite/jaredwhite/projects/22897).
+> I haved migrated the majority of of my open source projects over to [Codeberg](https://codeberg.org/jaredwhite). This work is mostly complete and ➡️ [I've been tracking the progress here](https://codeberg.org/jaredwhite/jaredwhite/projects/22897).
 
 > [!NOTE]
-> I hope you will join me and migrate away from the proprietary GitHub corporate silo and onto true community-led, open source platforms like Codeberg! (Or [host Forgejo yourself](https://forgejo.org)!) ✌️☮️🏳️‍🌈
+> I do hope you will join me and migrate away from the proprietary GitHub corporate silo and onto community-led, open source platforms like Codeberg! (Or [host Forgejo yourself](https://forgejo.org)!) ✌️☮️🏳️‍🌈
 
 > [!TIP]
 > Meanwhile, ⭐️ [please star my Codeberg updates repo here on GitHub](https://github.com/jaredcwhite/my-codeberg-updates) ⭐️ (if you follow me) so you can stay apprised of the work I'm doing in open source on Codeberg. 😊🙏
